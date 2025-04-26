@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi there, I'm Muskan Tailor
+🎯 Aspiring Data Analyst | SQL • Python • Power BI • Tableau  
+🔍 Passionate about transforming raw data into impactful insights  
+🚀 On a mission to land a Data Analyst role at Google & build a strong freelance portfolio  
 
-<!--
-**Muskan08-bit/Muskan08-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
+I'm a detail-oriented and curious analyst who thrives on using data to solve real-world problems.  
+With a background in Computer Science and hands-on experience in tools like **SQL**, **Python**, **Power BI**, and **Tableau**, I specialize in uncovering insights that drive decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Former Software Developer turned Data Analyst  
+- 📊 Strong in EDA, Visualization, Clustering, Dashboards & Business Case Studies  
+- ✨ Currently building impactful case studies and dashboards for my portfolio
+
+---
+
+## 💼 Skills
+| 🧰 Tools & Languages | 📊 Analytics | 📈 Visualization | 📦 Databases |
+|----------------------|----------------|-------------------|-----------------|
+| Python, SQL          | EDA, A/B Testing | Power BI, Tableau | MySQL, PostgreSQL |
+| Pandas, NumPy        | Clustering, Segmentation | Matplotlib, Seaborn | SQLite |
+
+---
+
+## 📁 Featured Projects
+
+### 🔍 [E-Commerce Customer Behavior Analysis](https://github.com/Muskan08-bit/Python-EDA-Projects/tree/main/E-Commerce%20Customer%20Behavior%20Analysis)
+- End-to-end analysis using Python & Tableau
+- Uncovered spending patterns, retention insights, & city-based trends  
+- Delivered targeted marketing recommendations
+
+### 🧠 [Customer Segmentation using K-Means Clustering](https://github.com/Muskan08-bit/Python-EDA-Projects/tree/main/Customer%20Segmentation%20Clustering)
+- Applied K-Means to group customers based on behavior  
+- Visualized results with insightful dashboards for stakeholder use
+
+### 🩺 [Bellabeat Case Study](https://github.com/Muskan08-bit/Python-EDA-Projects/tree/main/Bellabeat-Case-Study)
+- Google Capstone Case Study  
+- Cleaned, analyzed, and visualized data from fitness devices to suggest business growth strategies
+
+---
+
+## 📚 Learning in Public
+- Sharing blog-style writeups of case studies  
+- Documenting my journey from software developer to analyst  
+- Feel free to explore my repos and follow along!
+
+---
+
+## 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/muskan-tailor-2835b8222/)
+- 📧 Email: muskantailor08@gmail.com  
+- 🌍 Portfolio Website: [Coming Soon]
+
+---
+_Thanks for visiting! I'm always open to meaningful conversations, collaborations, and freelance opportunities in data analytics._  
+Let’s turn data into smart decisions! 🚀
