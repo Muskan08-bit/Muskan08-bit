@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Muskan Tailor
-🎯 Aspiring Data Analyst | SQL • Python • Power BI • Tableau  
+🎯 Data Analyst | SQL • Python • Power BI • Tableau  
 🔍 Passionate about transforming raw data into impactful insights  
-🚀 On a mission to land a Data Analyst role at Google & build a strong freelance portfolio  
 
 ---
 
