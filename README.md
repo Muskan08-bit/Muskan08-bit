@@ -50,7 +50,6 @@ With a background in Computer Science and hands-on experience in tools like **SQ
 - 💼 [LinkedIn](https://www.linkedin.com/in/muskan-tailor-2835b8222/)
 - 📧 Email: muskantailor08@gmail.com
 - 📄 [Resume](https://drive.google.com/file/d/1Q1Cik6VVT5d1GvU7xV8kD7Q9lTTvg7im/view?usp=sharing)
-- 🌍 [Portfolio Website](https://muskantailor08.wixsite.com/my-site) 
 
 ---
 _Thanks for visiting! I'm always open to meaningful conversations, collaborations, and freelance opportunities in data analytics._  
