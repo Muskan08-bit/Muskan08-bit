@@ -34,10 +34,10 @@ I don’t just build dashboards — I deliver insights that help businesses grow
 ### 🧠 Customer Segmentation using K-Means Clustering  
 **Tools**: Python, SQL, Power BI  
 **Problem**: Group customers for better retention strategy  
-**Solution**: Applied K-Means clustering on behavior/demographics; visualized via KPI-driven dashboard  
+**Solution**: Applied K-Means clustering on behavior/demographics 
 **Impact**: Enabled 12% uplift in retention through targeted loyalty initiatives  
 🔗 [GitHub Code](https://github.com/Muskan08-bit/Python-EDA-Projects/tree/main/Customer%20Segmentation%20Clustering)  
-📊 [Dashboard Preview](https://drive.google.com/file/d/1NtkT8JW1i6WpVkaIFegYMm6hF88KUFOr/view?usp=drive_link)
+📊 [Clusters Preview](https://drive.google.com/file/d/1NtkT8JW1i6WpVkaIFegYMm6hF88KUFOr/view?usp=drive_link)
 
 ---
 
