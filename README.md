@@ -1,71 +1,87 @@
-# 👋 Hi, I'm Muskan Tailor  
+# 👋 Hi there, I'm Muskan Tailor  
 🎯 Data Analyst | SQL • Python • Power BI • Tableau  
-🔍 Turning raw data into real business impact through dashboards, insights, and storytelling
+🔍 Passionate about transforming raw data into impactful business insights  
 
 ---
 
-## 🔥 Why Me?  
-I bring the analytical thinking of a software developer and the problem-solving mindset of a data analyst.  
-I don’t just build dashboards — I deliver insights that help businesses grow, optimize, and make smarter decisions.
+## 🧠 About Me  
+I’m a detail-oriented Data Analyst with a background in software development and a deep passion for uncovering stories hidden in data.
+
+With hands-on expertise in SQL, Python, Power BI, and Tableau, I specialize in solving business problems through dashboards, segmentation, and clear storytelling.
+
+- 💼 Ex-Software Developer turned Data Analyst  
+- 📊 Skilled in EDA, Visualization, Clustering, KPI Dashboards & Business Case Studies  
+- 🚀 Currently building powerful dashboards and case studies for my portfolio
 
 ---
 
-## 💼 Skills & Tools
+## 💼 Technical Skills
 
-| 🧰 Languages & Tools | 📊 Analytics Concepts | 📈 Visualization | 🗃️ Databases |
-|----------------------|----------------------|------------------|--------------|
-| Python, SQL, R       | EDA, A/B Testing, Clustering, Segmentation, Forecasting | Power BI, Tableau, Excel | MySQL, PostgreSQL, SQLite |
-| Pandas, NumPy, Seaborn | KPI Tracking, Retention, Cohort Analysis | Matplotlib, Plotly | BigQuery (learning) |
+| Tools & Languages   | Analytics & Stats       | Data Visualization      | Databases            |
+|---------------------|-------------------------|--------------------------|----------------------|
+| Python, SQL         | EDA, A/B Testing, Clustering | Tableau, Power BI, Excel | MySQL, PostgreSQL    |
+| Pandas, NumPy       | Data Cleaning, Segmentation | Matplotlib, Seaborn     | SQLite               |
+| Jupyter Notebook    | KPI Design, Storytelling | DAX, Custom Filters      | Google BigQuery (basic) |
 
 ---
 
 ## 📁 Featured Projects
 
-### 📈 E-Commerce Customer Behavior Analysis  
-**Tools**: Python, Tableau, SQL  
-**Problem**: Identify customer behavior trends and retention drivers  
-**Solution**: Conducted RFM segmentation & city-wise cohort analysis on 10,000+ customers  
-**Impact**: Identified that 20% of users contributed over 60% of revenue, helping drive personalized marketing campaigns  
-🔗 [GitHub Code](https://github.com/Muskan08-bit/Python-EDA-Projects/tree/main/E-Commerce%20Customer%20Behavior%20Analysis)  
-📊 [Dashboard Preview](https://drive.google.com/file/d/1hGGtoJNH3N8CnbO9Tr6NzA6gN9_wLIcQ/view?usp=drive_link)
+### 📊 [Netflix Content Insights Dashboard (Tableau)](https://github.com/Muskan08-bit/netflix-contents-insights)
+**Tools:** Python (EDA), Tableau (Dashboard)  
+**Summary:**  
+Visualized 8,800+ Netflix titles to explore global content trends by genre, year, type, and casting.  
+🚀 Key highlights:
+- Genre trends by country
+- Surge in content from 2015 to 2018
+- 69% content is Movies; 31% TV Shows
+- Top 10 actors & directors on Netflix
+- KPI cards: Total titles, % TV shows, Most common genre
+
+📸 ![Dashboard Screenshot](https://drive.google.com/file/d/1KsWyfFVWHbRY7u_4xCLwgZPI4BRNu_4S/view?usp=drive_link)
 
 ---
 
-### 🧠 Customer Segmentation using K-Means Clustering  
-**Tools**: Python, SQL, Power BI  
-**Problem**: Group customers for better retention strategy  
-**Solution**: Applied K-Means clustering on behavior/demographics 
-**Impact**: Enabled 12% uplift in retention through targeted loyalty initiatives  
-🔗 [GitHub Code](https://github.com/Muskan08-bit/Python-EDA-Projects/tree/main/Customer%20Segmentation%20Clustering)  
-📊 [Clusters Preview](https://drive.google.com/file/d/1NtkT8JW1i6WpVkaIFegYMm6hF88KUFOr/view?usp=drive_link)
+### 🧠 [Customer Segmentation using K-Means Clustering](https://github.com/Muskan08-bit/Python-EDA-Projects/tree/main/Customer%20Segmentation%20Clustering)
+**Tools:** Python, Seaborn, KMeans  
+- Identified high-value customers by clustering purchasing behavior  
+- Delivered marketing insights that improved retention strategy by 12%  
+- Explained business implications using visualized clusters
 
 ---
 
-### 🩺 Bellabeat Case Study (Google Capstone Project)  
-**Tools**: Python, Excel, Tableau  
-**Problem**: Analyze user data from smart fitness devices to improve product engagement  
-**Solution**: Cleaned, explored and visualized user activity/sleep data to suggest feature improvements  
-**Impact**: Recommended targeted wellness campaigns estimated to boost engagement by 18–20%  
-🔗 [GitHub Code](https://github.com/Muskan08-bit/Python-EDA-Projects/tree/main/Bellabeat-Case-Study)  
-📊 [Dashboard Preview](https://drive.google.com/file/d/10f5hUwGqH1rmrxEC7jkzzxlwPEpk2fjw/view?usp=sharing)
+### 🔍 [E-Commerce Customer Behavior Analysis](https://github.com/Muskan08-bit/Python-EDA-Projects/tree/main/E-Commerce%20Customer%20Behavior%20Analysis)
+**Tools:** Python, Tableau  
+- Explored customer lifetime value, city-based behavior, and retention  
+- Created actionable dashboards and graphs to support decision-making  
+- Suggested location-based marketing insights
 
 ---
 
-## 🧠 Learning in Public
-I’m continuously upskilling through:
-- 🧪 Intermediate projects using real-world data
-- 📚 Google Data Analytics & Tableau certifications
-- 🧾 Documenting insights and business cases through dashboards & GitHub writeups
+### 🩺 [Bellabeat Case Study (Google Capstone)](https://github.com/Muskan08-bit/Python-EDA-Projects/tree/main/Bellabeat-Case-Study)
+**Tools:** R, Google Sheets, Tableau  
+- Analyzed smart device usage data to support marketing strategy  
+- Proposed ways to boost engagement and brand awareness  
+- Focused on female health tracking trends
 
 ---
 
-## 📫 Let’s Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/muskan-tailor-2835b8222/)
-- 📧 Email: muskantailor08@gmail.com  
-- 📄 [Resume](https://drive.google.com/file/d/1SV4YXc6F1kxhjC-LZu_AxkaAFevfyttv/view?usp=sharing)  
-- 🌐 Portfolio Site (Coming Soon...)
+## 🌟 Currently Improving
+- Intermediate statistics for data storytelling  
+- Advanced Power BI (DAX + Custom Visuals)  
+- Case-based business problem solving  
+- Polishing interview-ready Python/SQL problem solving  
 
 ---
 
-_Thanks for visiting! I'm open to freelance projects, data collaborations, and full-time opportunities in data analytics._  
-Let’s turn data into action 🚀
+## 📬 Let’s Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/muskan-tailor-2835b8222/)  
+- 📧 muskantailor08@gmail.com  
+- 🧠 [Portfolio Repository](https://github.com/Muskan08-bit)  
+- 📄 [Resume](https://drive.google.com/file/d/1SV4YXc6F1kxhjC-LZu_AxkaAFevfyttv/view?usp=sharing)
+
+---
+
+_Thanks for visiting! Always open to feedback, opportunities, and collaborations._  
+Let’s turn data into decisions that matter. 🚀
