@@ -30,6 +30,7 @@ With hands-on expertise in SQL, Python, Power BI, and Tableau, I specialize in s
 ### 📊 [Netflix Content Insights Dashboard (Tableau)](https://github.com/Muskan08-bit/Netflix-Tableau-Dashboard)  
 **Tools:** Python (EDA), Tableau (Dashboard)  
 **Dashboard:** [View Dashboard](https://drive.google.com/file/d/1KsWyfFVWHbRY7u_4xCLwgZPI4BRNu_4S/view?usp=sharing)
+
 **Summary:**  
 Analyzed 8,800+ Netflix titles to visualize global content trends by genre, year, type, and casting. Built an interactive Tableau dashboard with KPI cards, filters, and business-driven storytelling.
 
@@ -45,6 +46,7 @@ Analyzed 8,800+ Netflix titles to visualize global content trends by genre, year
 ### 🧠 [Customer Segmentation using K-Means Clustering](https://github.com/Muskan08-bit/Python-EDA-Projects/tree/main/Customer%20Segmentation%20Clustering)  
 **Tools:** Python (Pandas, Seaborn), KMeans  
 **Dashboard:** [View Clusters](https://drive.google.com/file/d/1NtkT8JW1i6WpVkaIFegYMm6hF88KUFOr/view?usp=drive_link)
+
 **Summary:**  
 Segmented customers based on demographics and purchase behavior to identify high-value clusters and enable targeted marketing efforts.
 
@@ -59,6 +61,7 @@ Segmented customers based on demographics and purchase behavior to identify high
 ### 🔍 [E-Commerce Customer Behavior Analysis](https://github.com/Muskan08-bit/Python-EDA-Projects/tree/main/E-Commerce%20Customer%20Behavior%20Analysis)  
 **Tools:** Python, Tableau  
 **Dashboard:** [View Dashboard](https://drive.google.com/file/d/1hGGtoJNH3N8CnbO9Tr6NzA6gN9_wLIcQ/view?usp=drive_link)
+
 **Summary:**  
 Performed exploratory data analysis on customer transactions to understand purchase patterns and retention metrics. Delivered marketing recommendations and built a Tableau dashboard.
 
@@ -73,6 +76,7 @@ Performed exploratory data analysis on customer transactions to understand purch
 ### 🩺 [Bellabeat Case Study (Google Capstone)](https://github.com/Muskan08-bit/Python-EDA-Projects/tree/main/Bellabeat-Case-Study)  
 **Tools:** R, Google Sheets, Tableau  
 **Dashboard:** [View Dashboard](https://drive.google.com/file/d/10f5hUwGqH1rmrxEC7jkzzxlwPEpk2fjw/view?usp=drive_link)
+
 **Summary:**  
 Completed as part of the Google Data Analytics Certificate, this case study analyzed smart device usage to drive growth recommendations for Bellabeat — a women's fitness brand.
 
