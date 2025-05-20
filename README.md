@@ -27,42 +27,56 @@ With hands-on expertise in SQL, Python, Power BI, and Tableau, I specialize in s
 
 ## 📁 Featured Projects
 
-### 📊 [Netflix Content Insights Dashboard (Tableau)](https://github.com/Muskan08-bit/netflix-contents-insights)
+### 📊 [Netflix Content Insights Dashboard (Tableau)](https://github.com/Muskan08-bit/Netflix-Tableau-Dashboard)  
 **Tools:** Python (EDA), Tableau (Dashboard)  
 **Summary:**  
-Visualized 8,800+ Netflix titles to explore global content trends by genre, year, type, and casting.  
-🚀 Key highlights:
-- Genre trends by country
-- Surge in content from 2015 to 2018
-- 69% content is Movies; 31% TV Shows
-- Top 10 actors & directors on Netflix
-- KPI cards: Total titles, % TV shows, Most common genre
+Analyzed 8,800+ Netflix titles to visualize global content trends by genre, year, type, and casting. Built an interactive Tableau dashboard with KPI cards, filters, and business-driven storytelling.
 
-📸 ![Dashboard Screenshot](https://drive.google.com/file/d/1KsWyfFVWHbRY7u_4xCLwgZPI4BRNu_4S/view?usp=drive_link)
-
----
-
-### 🧠 [Customer Segmentation using K-Means Clustering](https://github.com/Muskan08-bit/Python-EDA-Projects/tree/main/Customer%20Segmentation%20Clustering)
-**Tools:** Python, Seaborn, KMeans  
-- Identified high-value customers by clustering purchasing behavior  
-- Delivered marketing insights that improved retention strategy by 12%  
-- Explained business implications using visualized clusters
+**Key Highlights:**  
+- Visualized genre popularity by country  
+- Content spike observed between 2015–2018  
+- Movies dominate with 69% share  
+- Identified top actors (Anupam Kher) and directors (Rajiv Chilaka)  
+- Created KPI cards for total titles, % TV shows, and most common genre
 
 ---
 
-### 🔍 [E-Commerce Customer Behavior Analysis](https://github.com/Muskan08-bit/Python-EDA-Projects/tree/main/E-Commerce%20Customer%20Behavior%20Analysis)
+### 🧠 [Customer Segmentation using K-Means Clustering](https://github.com/Muskan08-bit/Python-EDA-Projects/tree/main/Customer%20Segmentation%20Clustering)  
+**Tools:** Python (Pandas, Seaborn), KMeans  
+**Summary:**  
+Segmented customers based on demographics and purchase behavior to identify high-value clusters and enable targeted marketing efforts.
+
+**Key Highlights:**  
+- Applied KMeans to categorize customer types  
+- Boosted retention strategy by identifying key customer segments  
+- Provided actionable insights for loyalty campaigns  
+- Explained results through cluster visualizations with insights
+
+---
+
+### 🔍 [E-Commerce Customer Behavior Analysis](https://github.com/Muskan08-bit/Python-EDA-Projects/tree/main/E-Commerce%20Customer%20Behavior%20Analysis)  
 **Tools:** Python, Tableau  
-- Explored customer lifetime value, city-based behavior, and retention  
-- Created actionable dashboards and graphs to support decision-making  
-- Suggested location-based marketing insights
+**Summary:**  
+Performed exploratory data analysis on customer transactions to understand purchase patterns and retention metrics. Delivered marketing recommendations and built a Tableau dashboard.
+
+**Key Highlights:**  
+- Identified top cities by revenue and order frequency  
+- Analyzed RFM metrics (Recency, Frequency, Monetary)  
+- Suggested targeted marketing for low-engagement segments  
+- Visualized trends using interactive Tableau dashboards
 
 ---
 
-### 🩺 [Bellabeat Case Study (Google Capstone)](https://github.com/Muskan08-bit/Python-EDA-Projects/tree/main/Bellabeat-Case-Study)
+### 🩺 [Bellabeat Case Study (Google Capstone)](https://github.com/Muskan08-bit/Python-EDA-Projects/tree/main/Bellabeat-Case-Study)  
 **Tools:** R, Google Sheets, Tableau  
-- Analyzed smart device usage data to support marketing strategy  
-- Proposed ways to boost engagement and brand awareness  
-- Focused on female health tracking trends
+**Summary:**  
+Completed as part of the Google Data Analytics Certificate, this case study analyzed smart device usage to drive growth recommendations for Bellabeat — a women's fitness brand.
+
+**Key Highlights:**  
+- Cleaned and analyzed daily activity, sleep, and weight data  
+- Discovered usage gaps across weekday/weekend and time-of-day  
+- Suggested business improvements for product positioning  
+- Created visual dashboards for stakeholder understanding
 
 ---
 
