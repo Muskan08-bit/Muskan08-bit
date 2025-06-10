@@ -27,7 +27,7 @@ With hands-on expertise in SQL, Python, Power BI, and Tableau, I specialize in s
 
 ## 📁 Featured Projects
 
-### 📊 [Netflix Content Insights Dashboard (Tableau)](https://github.com/Muskan08-bit/Netflix-Tableau-Dashboard)  
+### 📊 [Netflix Content Insights Dashboard (Tableau)](https://github.com/Muskan08-bit/netflix-contents-insights)  
 **Tools:** Python (EDA), Tableau (Dashboard)  
 **Dashboard:** [View Dashboard](https://drive.google.com/file/d/1KsWyfFVWHbRY7u_4xCLwgZPI4BRNu_4S/view?usp=sharing)
 
